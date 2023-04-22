@@ -1,0 +1,37 @@
+
+
+.MainCol{
+	padding: 40px; 
+	width: 500px;}
+
+.sign{
+	background-color: orange ;
+	border: lightgrey solid 0.2px; 
+	color: white;
+	display: flex;align-items: center;
+	justify-content: center;
+
+}
+.num{
+	background-color: lightgrey;
+	display: flex;align-items: center;
+	justify-content: center;
+	border: #808080 solid 0.2px; 
+
+
+
+}
+p{
+	font-size: 20px;
+}
+.Col1{ background-color: #7f7d9c ;
+
+display: flex;
+justify-content: right;
+align-items: right;
+color: #ffff;
+
+}
+
+
+
